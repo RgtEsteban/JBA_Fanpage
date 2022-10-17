@@ -1,0 +1,97 @@
+/*Toutes les pages*/
+
+body {
+    font-family: Varela Round, monospace;
+    background: linear-gradient(white, 90%, #ba007d);
+}
+
+.titre {
+    position: relative;
+    color:deeppink;
+}
+
+.soustitre{
+    color:#b70ca2;
+    font-weight: 200px;
+}
+
+.paragraphe {
+    text-align: justify;
+}
+
+/*Index*/
+
+#bannerimage {
+    position: relative;
+    height: 100%;
+    width: 100%;
+
+  }
+
+#banniere {
+    width: 100%;
+    height: 450px;
+    height: 100%;
+}
+
+.sectionpart {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+
+/*Parties*/
+
+section{
+    padding-top: 50px;
+    padding-bottom: 120px;
+}
+
+#card-img {
+    width: 350px;
+    height: 500px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.card-title{
+    text-align: center;
+}
+
+/*personnages*/
+
+#text{
+    text-align : center;
+    justify-content: center;
+    color : black;
+}
+
+#perso{
+    width: 280px;
+    height: 400px;
+    text-align : center;
+    justify-content: center;
+}
+
+.container{
+    text-align : center;
+}
+
+#fleche{
+    width: 200px;
+    height: 80px;
+    text-align : center;
+    justify-content: center;
+    margin-top: 45%;
+}
+#protagonistes{
+    width: 280px;
+    height: 400px;
+    text-align : right;
+    justify-content: right;
+}

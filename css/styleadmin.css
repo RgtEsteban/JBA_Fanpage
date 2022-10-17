@@ -1,0 +1,27 @@
+body{
+    font-family: Varela Round, monospace;
+    text-decoration: none;
+    background: url(../image/bg.png) no-repeat;
+    background-size: cover;
+    background-blend-mode: color-black;
+}
+
+label{
+    color: white;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
